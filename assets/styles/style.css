@@ -399,7 +399,17 @@ p span {
 .card-content {
   margin: 0 var(--padding-padrao);
 }
-
+.card-content p{
+  padding: 3px 0;
+}
+.animal-point-group{
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+.animal-point-group img{
+  padding: 10px 0;
+}
 .animal-point {
   margin-left: 17px;
 }
