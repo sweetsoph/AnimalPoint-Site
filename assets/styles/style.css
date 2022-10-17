@@ -560,6 +560,8 @@ footer  article .bloco-footer .redes{
   display: flex;
   flex-direction: row;
   justify-content: left;
+  align-items: flex-end;
+  height: 60px;
 }
 footer  article .bloco-footer p{
   margin-top: 10px;
@@ -572,7 +574,8 @@ footer  article .bloco-footer p#copyright{
 }
 footer article .bloco-footer .redes a img{
  margin: 2px;
- height: 50px;
+ height: 60px;
+
 }
 footer article div {
   margin: 15px;
